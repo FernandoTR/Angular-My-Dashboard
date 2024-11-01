@@ -1,5 +1,29 @@
 # MyDashboard
 
+Temas puntuales de la aplicación
+Esta aplicación está dedicada a explorar nuevas funcionalidades en Angular, puntualmente quiero que veamos sobre:
+
+1. Señales
+2. Observables a señales
+3. Señales para estados en servicios
+4. Señales de solo lectura (asReadOnly)
+5. Señales computadas
+6. Defer
+7. Funcionalidad
+8. Triggers
+9. Control Flow
+10. @if
+11. @for
+12. @else
+13. @empty
+14. @switch
+15. @case
+16. @default
+17. View Transition API (Aún no compatible con todos los navegadores)
+18. Nuevo sistema de detección de cambios
+19. Tailwind con Angular
+20. Configuración de Path alias en TypeScript
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
 ## Development server
